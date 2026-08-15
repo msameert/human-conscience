@@ -1,2 +1,2 @@
 # human-conscience
-sometimes i prefer Thoughts over coding.
+sometimes i prefer thoughts over coding.
